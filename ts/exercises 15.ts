@@ -8,3 +8,9 @@ const c = "c";
 const abc = {a, b, c}
 
 // 1. Log the properties a, b and c of the object abc
+
+// 2. Using this technique, create a new function that defines an object animals with two or three animal names and returns the object
+
+// 3. Create a constant variable myAnimals and use the function to define it
+
+// 4. Log the variable myAnimals
